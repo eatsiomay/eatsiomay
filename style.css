@@ -1,0 +1,27 @@
+.jumbop{
+    margin-right: 620px;
+    font-size: 30px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.jumbotext{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+body{
+	font-family: Montserrat;
+}
+ 
+h1{
+	font-family: Montserrat;
+}
+
+h2{
+	font-family: Montserrat;
+}
+
+p{
+	font-family: Montserrat;
+}
